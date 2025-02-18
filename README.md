@@ -1,4 +1,5 @@
-# File Downloader
+
+# Download File
 
 This is a Python script that downloads a file from a given URL and saves it to the local machine. It uses the `requests` library to handle HTTP requests and ensure successful file retrieval. This script is intended for educational purposes to understand file downloading mechanisms in Python.
 
@@ -15,8 +16,8 @@ This is a Python script that downloads a file from a given URL and saves it to t
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/file_downloader.git
-cd file_downloader
+git clone https://github.com/Kasperone/download_file.git
+cd download_file
 ```
 
 Install the required library:
@@ -29,7 +30,7 @@ pip install requests
 Run the script to download a file from a given URL.
 
 ```bash
-python3 file_downloader.py
+python3 download_file.py
 ```
 
 ### Notes:
